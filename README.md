@@ -138,5 +138,5 @@ kubectl apply -f k8s/service.yaml
 
 ## 👨‍💻 Author
 
-**Rama Krishna Vankini**
+**Guntapelli Anilkumar**
 ---
